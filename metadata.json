@@ -1,0 +1,6 @@
+{
+  "name": "Yamama Shawaya | Real Arabian Charcoal Grill",
+  "description": "Yamama Shawaya - Refill Your Energy. Slow-roasted chicken, authentic Arabian flavours, fresh kubus, bishawari rice and refreshing artisan mojitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
